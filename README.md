@@ -11,7 +11,7 @@ Tested manually in Chrome on 25 November 2026.
 | File | What it is |
 | --- | --- |
 | `QA_Test_Cases_SauceDemo.xlsx` | 15 test cases with steps, expected result, actual result and status. A Summary sheet lists scope and notes. |
-| `QA_Bug_Report_BUG-001.pdf` | One bug report: steps to reproduce, expected vs actual, severity and a screenshot. |
+| `BUG-001.md` | One bug report: steps to reproduce, expected vs actual, severity and impact. |
 
 ## Results
 
